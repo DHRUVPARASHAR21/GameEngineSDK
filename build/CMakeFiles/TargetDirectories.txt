@@ -1,0 +1,3 @@
+/mnt/c/Users/pardh/OneDrive/Desktop/GameEngineSDK/build/CMakeFiles/GameEngineSDK.dir
+/mnt/c/Users/pardh/OneDrive/Desktop/GameEngineSDK/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/pardh/OneDrive/Desktop/GameEngineSDK/build/CMakeFiles/rebuild_cache.dir
